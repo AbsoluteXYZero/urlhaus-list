@@ -2,7 +2,7 @@ name: Daily URLhaus Import
 
 on:
   schedule:
-    - cron: '20 16 * * *'  # Daily at 12:20pm ET (UTC-4)
+    - cron: '49 16 * * *'  # Daily at 12:49pm ET (UTC-4))
   workflow_dispatch:
 
 jobs:
